@@ -1,20 +1,15 @@
-### Hi there 👋
-
-<!--
-**marussia1996/marussia1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/muCo9BLS7vjErTON27/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/muCo9BLS7vjErTON27/giphy.gif" width="200"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://t.me/spantsch">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.instagram.com/spantschbob/">
+    <img src="https://img.shields.io/badge/Instagram-e1306c?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+  </a>
+</div>
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=marussia1996&style=flat-square&color=lightgrey" alt=""/>
 </div>
 
