@@ -13,6 +13,15 @@
   <img src="https://komarev.com/ghpvc/?username=marussia1996&style=flat-square&color=lightgrey" alt=""/>
 </div>
 <h1>Всем привет, меня зовут Мария<h1>
+<h3>
+<ul>
+  <li>🐼 Начинающий веб-разработчик</li>
+  <li>👫Стремлюсь к работе с опытными людьми</li>
+  <li>🍀Хочу работать над созданием интересных интерфейсов</li>
+  <li>📖Осваивать новые фреймворки и технологии</li>
+  <li>🔪В свободное время люблю играть в мафию</li>
+</ul>
+</h3></br>
 
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
@@ -34,7 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</div></br>
   
 ### 💻 Моя статистика : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marussia1996&theme=dracula&border_radius=5)](https://git.io/streak-stats)
