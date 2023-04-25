@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/muCo9BLS7vjErTON27/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/muCo9BLS7vjErTON27/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/spantsch">
